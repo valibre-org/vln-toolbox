@@ -7,7 +7,7 @@ const { types } = require("@acala-network/types");
 const NETWORK_PROVIDER = {
   localrelay: "ws://127.0.0.1:9944",
   liverelay: "wss://rococo-rpc.polkadot.io",
-  localvln: "ws://127.0.0.1:9947",
+  localvln: "ws://127.0.0.1:9944",
   livevln: "wss://vln.valiu.dev",
   localacala: "ws://127.0.0.1:9979",
   liveacala: "wss://rococo-1.acala.laminar.one",
